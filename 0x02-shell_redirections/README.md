@@ -1,1 +1,1 @@
--ehello_world\n
+(Ôo)

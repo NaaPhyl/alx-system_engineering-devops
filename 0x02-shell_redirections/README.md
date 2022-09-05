@@ -1,1 +1,1 @@
-hello_world
+-ehello_world\n
